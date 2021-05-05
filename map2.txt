@@ -1,0 +1,27 @@
+
+#tileset
+contents/img/sprite_sheet.png
+22 1
+128 128
+0=empty=0
+a=fill=10
+b=fill=10
+c=fill=10
+d=fill=10
+e=fill=10
+f=fill=10
+j=fill=10
+#map
+7 11
+0000000
+0000000
+0000000
+0000000
+0000000
+0000000
+0000000
+0000000
+0000000
+000j000
+0000000
+#end$
